@@ -1,0 +1,33 @@
+html {
+    background-color: #fcd1a0;
+    font-size: 1.3rem;
+}
+
+img {
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+#content {
+    width: 50%;
+    min-width: 700px;
+    margin: 0 auto;
+}
+
+#home-image {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+}
+#home-image img {
+    width: 60%;
+}
+
+
+.container {
+    border: #fcbca0 1px solid;
+    border-radius: 1rem;
+    padding: 1rem;
+    overflow: hidden;
+    background-color: #faf0b1;
+}
